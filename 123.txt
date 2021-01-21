@@ -3,3 +3,4 @@ two line
 third line
 fourth line
 5th line from win7 bit32 computer
+6th line from win7 bit32 computer
